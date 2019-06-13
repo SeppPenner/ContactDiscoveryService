@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcpkix-jdk15on</artifactId>
-            <version>1.57</version>
+            <version>1.60</version>
         </dependency>
         <dependency>
             <groupId>net.openhft</groupId>
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>2.6.1</version>
+            <version>3.4.0</version>
         </dependency>
 
         <dependency>
